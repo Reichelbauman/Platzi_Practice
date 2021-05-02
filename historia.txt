@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Esta es la historia padre, pero no tan padre.
 Como tener mucha hambre en tiempo de calor y encontrar un caldo para comer.
+=======
+Esta es la historia padre
+Bueno, padre para el que solo entiende.
+Hablaremos de su vida y obra maestra.
+>>>>>>> cabezons

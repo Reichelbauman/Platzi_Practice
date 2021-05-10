@@ -6,3 +6,10 @@ body {
     border: burlywood;
     font-size: larger;
 }
+#titular{
+    background-color: white;
+    height: 60px;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}

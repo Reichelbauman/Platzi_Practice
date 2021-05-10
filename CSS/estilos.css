@@ -6,3 +6,9 @@ body {
     border: burlywood;
     font-size: larger;
 }
+#footer_platzi_practice{
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellowgreen;
+    background-color: white;
+    margin: 10%;
+}
